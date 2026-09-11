@@ -13,4 +13,5 @@
 # Logs e arquivos temporários do sistema
 *.log
 .DS_Store
+
 Thumbs.db

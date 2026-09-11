@@ -1,0 +1,16 @@
+# Dependências
+/node_modules
+
+# Arquivos de build do Next.js
+/.next/
+/out/
+/build
+
+# Variáveis de ambiente (essencial para proteger suas chaves do Supabase)
+.env
+.env*.local
+
+# Logs e arquivos temporários do sistema
+*.log
+.DS_Store
+Thumbs.db
